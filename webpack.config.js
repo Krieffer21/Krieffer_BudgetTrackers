@@ -2,7 +2,7 @@ const WebpackPwaManifest = require("webpack-pwa-manifest");
 const path = require("path");
 
 const config = {
-    entry: "./public/index.js",
+    entry: "./public/app.js",
     output: {
         path: __dirname + "/public/dist",
         filename: "bundle.js"
@@ -16,8 +16,8 @@ const config = {
 
             name: "Budget Tracker App",
             short_name: "Budget App",
-            theme_color: "#fffff",
-            background_color: "#fffff",
+            theme_color: "#ffffff",
+            background_color: "#ffffff",
             start_url: "/",
             display: "standalone",
 
