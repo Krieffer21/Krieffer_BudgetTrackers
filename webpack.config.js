@@ -27,7 +27,7 @@ const config = {
                         __dirname,
                         "public/icons/icon-512x512.png"
                     ),
-                    size: [72, 96, 128, 144, 152, 192, 384, 512]
+                    size: [192, 512]
                 }
             ]
         })
