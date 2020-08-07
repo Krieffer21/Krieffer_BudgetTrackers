@@ -3,13 +3,13 @@
     "short_name": "Budget App",
     "icons": [
         {
-            "scr": "public/icons/icon-192x192.png",
-            "sizes": "192",
+            "scr": "icons/icon-192x192.png",
+            "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "scr": "public/icons/icon-512x512.png",
-            "sizes": "512",
+            "scr": "icons/icon-512x512.png",
+            "sizes": "512x512",
             "type": "image/png"
         }
     ],
