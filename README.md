@@ -8,13 +8,14 @@
   
 ![cache screenshot](https://github.com/Krieffer21/Krieffer_BudgetTrackers/blob/master/screenshots/cachefiles.png)
 
-### Webmanifest
+### 
 
 
-![](https://github.com/Krieffer21/Krieffer_BudgetTrackers/blob/master/screenshots/webmanifest.png)
+![]()
 
 ### Gifs
   Deployed Link: https://ancient-river-83882.herokuapp.com/
+  
   The gifs below display the working application. We are able to interact with the application offline by entering deposits and expenses, and when we are back online the page the offline entries are added to tracker.
 
 ![gif 1]()
