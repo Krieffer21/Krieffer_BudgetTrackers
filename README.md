@@ -5,6 +5,7 @@
 
 ### Cache
   The screenshot below shows the files that will be cached if the app goes offline. The data in the files will be temporarily stored allowing for a quicker reload when the page is revisited by the user.
+  
 ![cache screenshot](https://github.com/Krieffer21/Krieffer_BudgetTrackers/blob/master/screenshots/cachefiles.png)
 
 ### Service worker
@@ -15,7 +16,7 @@
 ### Gifs
   Deployed Link: https://ancient-river-83882.herokuapp.com/
   
-  The gifs below display the working application. We are able to interact with the application offline by entering deposits and expenses, and when we are back online the pages offline entries are added to the tracker.
+  The gifs below display the working application. We are able to interact with the application offline by entering deposits and expenses, and when we are back online, the pages offline entries are added to the tracker.
 
 ![gif 1](https://github.com/Krieffer21/Krieffer_BudgetTrackers/blob/master/screenshots/gif1.gif)
 
